@@ -1,0 +1,9 @@
+{
+  "saludo_consulta": 0.1,
+  "consulta_propiedad": 0.3,
+  "consulta_precio": 0.45,
+  "solicitar_visita": 0.65,
+  "interes_avanzar": 0.75,
+  "intencion_compra_alquiler": 0.9,
+  "desistimiento": -0.2
+}
